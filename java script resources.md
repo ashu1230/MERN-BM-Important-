@@ -3,3 +3,4 @@
 3. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions      //MDN
 4. https://getbootstrap.com/docs/5.3/components/accordion/      //Bootstrap
 5. https://docs.emmet.io/cheat-sheet/
+6. https://docs.npmjs.co
