@@ -8,3 +8,5 @@
 8. https://react.dev/       //React dev
 9. https://firebase.google.com/docs/database/web/start        //faerbase
 10. https://legacy.reactjs.org/docs/reconciliation.html          //react
+11. https://react.dev/blog/2023/05/03/react-canaries //react
+12. https://console.firebase.google.com/project/notes-manager-app-b26c4/authentication/providers  // connecter ashutosh
