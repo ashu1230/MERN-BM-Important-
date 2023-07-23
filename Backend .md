@@ -6,4 +6,8 @@
 6. https://expressjs.com/
 7. https://axios-http.com/docs/example
 8. https://mongoosejs.com/docs/schematypes.html#objectids
+9. https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+10. https://expressjs.com/en/starter/generator.html
+11. https://www.npmjs.com/package/bcrypt?activeTab=readme
+12. 
 
